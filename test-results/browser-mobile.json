@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "results": [
+    "Renderiza cinco momentos",
+    "Agrega problemas",
+    "Elimina problemas extra",
+    "Resalta campos pendientes",
+    "Corrige resaltado al rellenar",
+    "Agrega ideas",
+    "Lista ideas del momento anterior",
+    "Evita propuestas duplicadas",
+    "Elige automáticamente mayor puntaje",
+    "Informa empate",
+    "Actualiza ganador en tiempo real",
+    "Carga el logo SENA para exportaciones",
+    "Tailwind compilado aplicado",
+    "Sin desbordamiento horizontal"
+  ]
+}

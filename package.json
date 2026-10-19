@@ -1,0 +1,1 @@
+{"name":"sena-laboratorio-ideas","version":"2.0.0","private":true,"type":"module","scripts":{"build:css":"tailwindcss -i assets/tailwind.source.css -o assets/tailwind.css --minify","test":"node --test tests/*.test.js"},"devDependencies":{"@tailwindcss/cli":"4.3.3","tailwindcss":"4.3.3"}}
